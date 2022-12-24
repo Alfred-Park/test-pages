@@ -1,5 +1,5 @@
 [package]
-name = "wasm-matrix"
+name = "test-pages"
 version = "0.1.0"
 authors = ["Alfred-Park <alfred.park.st@gmail.com>"]
 edition = "2018"
